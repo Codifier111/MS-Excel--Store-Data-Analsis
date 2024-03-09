@@ -1,4 +1,4 @@
-# MS-Excel--Store-Data-Analsis
+# MS-Excel--Store-Data-Analysis
 
 ![image](https://github.com/Codifier111/MS-Excel--Store-Data-Analsis/assets/143827444/65571bca-18d7-4413-ae87-bb1d560a7691)
 
